@@ -1,0 +1,24 @@
+// Starbirth Kudu Shofar
+//
+// Converted from the original GigaSampler version by S. Christian Collins
+// www.schristiancollins.com
+
+<control>
+default_path=samples\
+
+<group> ampeg_release=0.3  amp_veltrack=98.5
+<region> sample=C4.wav   key=c3
+<region> sample=C#4.wav  key=d3
+<region> sample=D4.wav   key=e3
+<region> sample=D#4.wav  key=f3
+<region> sample=E4.wav   key=g3
+<region> sample=F4.wav   key=a3
+<region> sample=F#4.wav  key=b3
+<region> sample=G4.wav   key=c4
+<region> sample=A4.wav   key=d4
+<region> sample=B4.wav   key=e4
+<region> sample=C5.wav   key=f4
+<region> sample=D5.wav   key=g4
+<region> sample=E5.wav   key=a4
+<region> sample=F5.wav   key=b4
+<region> sample=G5.wav   key=c5
